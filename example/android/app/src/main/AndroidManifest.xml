@@ -45,6 +45,6 @@
             android:name="flutterEmbedding"
             android:value="2" />
 
-        <meta-data android:name="com.survicate.surveys.workspaceKey" android:value="YOUR_WORKSPACE_KEY"/>
+        <meta-data android:name="com.survicate.surveys.workspaceKey" android:value="cf6e06b797e60fbb11a83e17e15b6db6"/>
     </application>
 </manifest>

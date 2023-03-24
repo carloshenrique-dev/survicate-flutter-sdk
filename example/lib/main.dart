@@ -13,7 +13,7 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  SurvicateFlutterSdk survicateFlutterSdk= SurvicateFlutterSdk();
+  SurvicateFlutterSdk survicateFlutterSdk = SurvicateFlutterSdk();
   String? surveyIdDisplayed;
   String? surveyIdAnswered;
   num? questionIdAnswered;
@@ -46,7 +46,7 @@ class _MyAppState extends State<MyApp> {
                 ),
                 ElevatedButton(
                   onPressed: () {
-                    survicateFlutterSdk.enterScreen('SCREEN');
+                    survicateFlutterSdk.enterScreen('test');
                   },
                   child: Text('Enter screen SCREEN'),
                 ),

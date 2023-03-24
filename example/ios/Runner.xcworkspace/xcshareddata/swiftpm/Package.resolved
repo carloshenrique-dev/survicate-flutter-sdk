@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "survicate-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Survicate/survicate-ios-sdk",
+      "state" : {
+        "revision" : "7bd98dd3dd0bc4a3d4d4ba791c8a3f500e1de06f",
+        "version" : "2.0.2"
+      }
+    }
+  ],
+  "version" : 2
+}
